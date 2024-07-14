@@ -1,0 +1,15 @@
+{
+  "name": "site-constructor-function",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "serve": "parcel ./src/index.html --open -p 4200 --no-cache",
+    "build": "parcel build ./src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
